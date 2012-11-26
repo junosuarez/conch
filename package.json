@@ -1,0 +1,25 @@
+{
+  "name": "conch",
+  "version": "0.0.0",
+  "description": "format markdown for console output",
+  "main": "conch.js",
+  "dependencies": {
+    "eighty": "0.0.1",
+    "marked": "0.2.6",
+    "cardinal": "0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git@github.com:jden/conch.git",
+  "keywords": [
+    "commandline",
+    "cli",
+    "console",
+    "markdown",
+    "marked"
+  ],
+  "author": "jden <jason@denizac.org>",
+  "license": "MIT"
+}
